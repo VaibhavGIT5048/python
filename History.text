@@ -1,0 +1,40 @@
+PYTHON- 
+*What is python? 
+  you may ask its a high level programming language born in 1989-1991 named after british comr=edy group monty python
+  and the author is Guido Van rossum.
+*What is IDLE-
+   Tkinter Graphic Library [named after a founding member of monty pyhton "eric IDLE ]
+
+*WHAT ARE COMPILER AND INTERPRETER?
+ 1)compiler- source code <---> machine code eg- c , c++
+ 2)interpreter - Takes one instruction at a time and excutes in real life. eg- Python 
+
+*To further understand the basic guided principle of python we can use IDLE/CMD:- 
+  byt following the steps;-
+   1) type and enetr python {after downloding the latets version from python.org}; python
+   2)  type and enter Import this.
+the list of all the guided principle will be displayed 
+
+*FEATURE OF PYTHON:-
+ a) Easy
+ b)Compatibility
+ c)Python is a "open source"
+ d)Big Library
+Lets understand what's "OPEN SOURCE" means?
+  Open source refers to something people can modify and share
+  beacuse its design is publicly acccesible. This term most commmonly
+  applies to software that is realsed with license that allows anyone 
+  to view,use,modify and distribute the code. Open sorce software is developed
+  in collabrative mannner, often by communities of developers and enthusiasts.
+  eg- GITHUB
+
+MODULES & PIP:-
+
+ 1)MODULES:- External & bulit-in are code library which can be used to 
+             borrow codes written by somebody else in our python  program 
+ 2)PIP:- Package manager.{using import}
+        [terminal pip commmand]
+    whatever modules requires to be installed
+    is done by pip. "in python INTERPRETER
+
+SCRIPT:- line by line excution of code 
