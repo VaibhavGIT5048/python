@@ -1,6 +1,6 @@
 PYTHON- 
 *What is python? 
-  you may ask its a high level programming language born in 1989-1991 named after british comr=edy group monty python
+  you may ask its a high level programming language born in 1989-1991 named after british comedy group monty python
   and the author is Guido Van rossum.
 *What is IDLE-
    Tkinter Graphic Library [named after a founding member of monty pyhton "eric IDLE ]
@@ -20,7 +20,9 @@ the list of all the guided principle will be displayed
  b)Compatibility
  c)Python is a "open source"
  d)Big Library
-Lets understand what's "OPEN SOURCE" means?
+
+
+*Lets understand what's "OPEN SOURCE" means?
   Open source refers to something people can modify and share
   beacuse its design is publicly acccesible. This term most commmonly
   applies to software that is realsed with license that allows anyone 
@@ -28,7 +30,7 @@ Lets understand what's "OPEN SOURCE" means?
   in collabrative mannner, often by communities of developers and enthusiasts.
   eg- GITHUB
 
-MODULES & PIP:-
+*MODULES & PIP:-
 
  1)MODULES:- External & bulit-in are code library which can be used to 
              borrow codes written by somebody else in our python  program 
@@ -37,4 +39,4 @@ MODULES & PIP:-
     whatever modules requires to be installed
     is done by pip. "in python INTERPRETER
 
-SCRIPT:- line by line excution of code 
+*SCRIPT:- line by line excution of code 
