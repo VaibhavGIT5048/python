@@ -10,3 +10,4 @@ print (a)
 a =[5 , 20 , 20]
 id(a)
 ''' OUTPUT WILL BE 1906292064 id memory location'''
+''' As memory loaction of didnot changed before and after the modification the list is mutable'''
