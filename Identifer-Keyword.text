@@ -1,0 +1,24 @@
+*IDENTIFIERS:-
+ 1) Variables <----> _Bookname ; _num1
+ 2) Keywords  <----> if ; while ; yeild {predefined}
+ 3) Function  <----> print() ; int() ; len()
+ 4) Classes   <----> compex ; exception
+ 5) Modulus   <----> calender ; random 
+ 6) Packages  <----> pillow ; tkinter
+
+*starts with either lowercase,uppercase or with a underscore 
+
+KEYWORDS:-
+ 1) Class ---> complex ; exception
+ 2) Private Variable ---> _aadharnumber ; _marks
+ 3) Storngly Private Variable ---> __moblienumber {contain 2 " _ "}
+ 4) Special Purpose ---> _add_ ; _int_ 
+
+PYHTON 3.X :- 1) 33 keywords 
+              2) to check thje keyword : import keywords
+                                         keyword.kwlist
+
+*keyword are case senstive . You can't use them as identifiers or varibales 
+
+Indent- creates Blank space 
+comment- # To add message 
