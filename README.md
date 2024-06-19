@@ -1,2 +1,3 @@
-# python
-this repo helps to understand python in detail 
+# Python
+This repo helps to understand python in detail :)
+

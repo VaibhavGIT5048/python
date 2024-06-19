@@ -1,0 +1,22 @@
+DATA TYPES IN PYTHON:-
+    
+    1) Numeric Data Type - 
+          a) Integer -  123 ; 23 ; 45       
+          b) FLoat   -  -55.50 ; 5.23      {Real no. with a floating point represting the fraction/decimal.}
+          c) Complex Number - -4+5j ; 5+6j {Real no. with a imaginary and component.}    
+    2) Bollean Data Type -
+         a) True 
+         b) False
+    
+    3) Sequence Data Type -
+       a) List      {An ordered collection of one or more data items, not nessarily of same data type put in square brackets.} eg- [ "vaibhav" ; "Gupta"]
+       b) Tuple     {An ordered collection of one or more data items, not nessarily of same data type put in paranthesis. This content of tuple can't be modified} {"vaibhav"}
+       c) String    {A collection of one or more character put in single, double or triple quotes} eg- "Vaibhav Gupta"
+
+    4) Dictionary Data Type -
+       An unorderd collection of data in key : value pair form. Collection of such pair is enclosed in curly brackets
+       eg- {1 : "superman" ; 2 : "Batman"}
+
+    5) Mutability - 
+       The property of whether or not data object can be modified in the same memory loaction where they are stored is called as Mutability.
+        dicuss in the .py file as well 
