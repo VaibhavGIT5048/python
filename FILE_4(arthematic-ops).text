@@ -1,0 +1,28 @@
+ARTHEMATIC OPERATORS- 
+These are the symbols used for carring out mathematical operation like-
+   1)Addition        =  "+"
+   2)Subtraction     =  "-"
+   3)Multiplication  =  "*"
+   4)Division        =  "/"
+   5)Modulus         =  "%"
+   6)Exponent        =  "**"    [NOTE= 5*2**10 = 5*1024 = 5120]
+   7)Floor Division  =  "//"
+
+These are the basic mathematical opertors
+
+as we can understand there some new opertors 
+  1)Modulus:-
+      Returns the remainder of Division
+      
+Lets take some Examples:-
+  a) print(10%3)
+     output-1 {BCZ 10/3 gives the remainder 1}
+
+  b)print(-10 % 3)
+     output- 2 { BCZ we add 3 until we get a positive value " -10+3= -7+3= -4+3= -1+3= 2}
+  c)print(10 % -3)
+    output - -2 { BCZ we sub -3 from 10 until 0 or a negative Integer " 10-3=7-3=4-3=1-3=-2}
+
+  2)Floor Division:-
+    returns the quoteint in which the digit ater the decimal point is removed. One operand is '-ve' is on the left 
+    by the operand on the right of the operator.
