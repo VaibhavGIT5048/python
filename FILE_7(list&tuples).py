@@ -1,4 +1,4 @@
-L2 = ['Python', 'C++', 'Java', 'Ruby']
+'''L2 = ['Python', 'C++', 'Java', 'Ruby']
 
 # Sorting the list
 L2.sort()
@@ -27,3 +27,11 @@ print("After inserting 'R' at index 3:", L2)
 # Appending 'mongoDB' to the list
 L2.append('mongoDB')
 print("After appending 'mongoDB':", L2)
+'''
+
+fav_movie = [ "Batman " ,  "transformer" , "Ben10"]
+
+print(len(fav_movie))
+
+fav_movie.append("Ironman")
+print(len(fav_movie))
